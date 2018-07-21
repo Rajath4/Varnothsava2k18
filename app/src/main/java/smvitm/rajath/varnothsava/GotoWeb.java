@@ -20,6 +20,15 @@ import android.widget.Toast;
 
 import java.net.URL;
 
+/*
+Created by Rajath
+For more details contact me at
+Name : Rajath
+Email : ykrajath4@gmail.com
+WhatsApp : +91 9591708470
+Phone : +91 9591708470
+*/
+
 public class GotoWeb extends AppCompatActivity {
     static String topic;
     static String link = "null";

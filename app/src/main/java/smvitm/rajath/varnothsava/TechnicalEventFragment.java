@@ -18,10 +18,15 @@ import org.json.JSONObject;
 import java.io.InputStream;
 import java.util.ArrayList;
 
+/*
+Created by Rajath
+For more details contact me at
+Name : Rajath
+Email : ykrajath4@gmail.com
+WhatsApp : +91 9591708470
+Phone : +91 9591708470
+*/
 
-/**
- * A simple {@link Fragment} subclass.
- */
 public class TechnicalEventFragment extends Fragment {
 
 

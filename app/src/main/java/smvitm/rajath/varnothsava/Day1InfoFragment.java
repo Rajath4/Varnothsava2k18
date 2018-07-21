@@ -19,9 +19,15 @@ import java.io.InputStream;
 import java.util.ArrayList;
 
 
-/**
- * A simple {@link Fragment} subclass.
- */
+/*
+Created by Rajath
+For more details contact me at
+Name : Rajath
+Email : ykrajath4@gmail.com
+WhatsApp : +91 9591708470
+Phone : +91 9591708470
+*/
+
 public class Day1InfoFragment extends Fragment {
 
     @Override

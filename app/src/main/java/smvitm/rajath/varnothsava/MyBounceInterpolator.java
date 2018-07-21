@@ -1,8 +1,13 @@
 package smvitm.rajath.varnothsava;
 
-/**
- * Created by rajath on 19-02-2018.
- */
+/*
+Created by Rajath
+For more details contact me at
+Name : Rajath
+Email : ykrajath4@gmail.com
+WhatsApp : +91 9591708470
+Phone : +91 9591708470
+*/
 
 class MyBounceInterpolator implements android.view.animation.Interpolator {
     private double mAmplitude = 1;

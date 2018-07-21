@@ -9,9 +9,15 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 
-/**
- * A simple {@link Fragment} subclass.
- */
+/*
+Created by Rajath
+For more details contact me at
+Name : Rajath
+Email : ykrajath4@gmail.com
+WhatsApp : +91 9591708470
+Phone : +91 9591708470
+*/
+
 public class AnnoncementFragment extends Fragment {
 
 

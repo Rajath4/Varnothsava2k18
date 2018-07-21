@@ -18,14 +18,15 @@ import java.io.InputStream;
 import java.util.ArrayList;
 
 
-/**
- * A simple {@link Fragment} subclass.
- * Activities that contain this fragment must implement the
- * {@link GamingEventFragment.OnFragmentInteractionListener} interface
- * to handle interaction events.
- * Use the {@link GamingEventFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+/*
+Created by Rajath
+For more details contact me at
+Name : Rajath
+Email : ykrajath4@gmail.com
+WhatsApp : +91 9591708470
+Phone : +91 9591708470
+*/
+
 public class GamingEventFragment extends Fragment {
     @Nullable
     @Override

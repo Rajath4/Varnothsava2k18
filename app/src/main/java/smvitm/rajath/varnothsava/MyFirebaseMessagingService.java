@@ -1,9 +1,14 @@
 package smvitm.rajath.varnothsava;
 
 
-/**
- * Created by RAjath on 03-05-2017.
- */
+/*
+Created by Rajath
+For more details contact me at
+Name : Rajath
+Email : ykrajath4@gmail.com
+WhatsApp : +91 9591708470
+Phone : +91 9591708470
+*/
 
 import android.app.Notification;
 import android.app.NotificationManager;
