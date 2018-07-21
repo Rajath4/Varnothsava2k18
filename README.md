@@ -4,7 +4,6 @@ Varnothsava, an annual intercollegiate cultural and technical fest organised by 
 This application is available on play store @ https://play.google.com/store/apps/details?id=smvitm.rajath.varnothsava
 
 For more details contact me at
-
 Name : Rajath
 Email : ykrajath4@gmail.com
 WhatsApp : +91 9591708470
