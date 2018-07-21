@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Varnothsava</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="about_smvitm">
+            \tFounded in 2010 by H. H. Shri Vishwavallabha Theertha Swamiji of Shri Sode Vadiraja Mutt – one of the 700 plus years old Ashta Mutts associated with the world famous Shri Krishna temple of Udupi in Karnataka – Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM), situated at Bantakal in Udupi has carved a niche for itself in imparting quality engineering education in the coastal Karnataka region. Shri Swamiji started the institute with the sublime objective of providing quality higher education to the needy student community at affordable costs. The motto Engineering your Career and Character with Care well reflects the objectives and philosophy of the institute. Despite, being the youngest institute in the region, SMVITM has made remarkable strides in its journey towards excellence over the past five years and has emerged as the most promising engineering institute with its well-qualified and motivated faculty, state-of-the-art infrastructure and distinguished learning-centric facilities.
+\n\n
+    \tAt present, SMVITM, with a total student intake of 441 per year, offers Bachelor of Engineering (B.E.) courses in Civil Engineering, Computer Science and Engineering Electronics and Communication Engineering and Mechanical Engineering. Currently, 1562 students are pursuing their engineering education at the institute. Despite being located in a rural area, SMVITM ensures that its students are well trained in existing engineering practices and acquainted with the latest industrial trends.
+\n\n
+\tThe campus is conveniently located at Bantakal, which is about 6 km off the stretch of NH 66 that connects the coastal cities of Mangaluru (Mangalore) and Udupi. The campus is just 18 km away from Manipal, one of the well known educational hubs in South India and 12 km away from Udupi town. Udupi is well connected by road, rail and air to all the major cities across the country. The institute has well-furnished in-campus as well as off-campus hostels with all modern amenities, separately for boys and girls. The institute is affiliated to Visvesvaraya Technological University, Belagavi; approved by the All India Council for Technical Education, New Delhi and recognized by the Government of Karnataka.
+\n\n
+\tThe accomplishments of SMVITM have already garnered well-deserved recognition and widespread praise from eminent personalities across the spectrum. Late Dr. A. P. J. Abdul Kalam, former President of India, having admired the vision and value addition to engineering education taking place at the institute, made a visit to the campus and appreciated the holistic education imparted at SMVITM and inspired the students in 2014. Shri A. S. Kiran Kumar, Chairman, ISRO; Dr. B. N. Suresh, Distinguished Scientist, ISRO; Justice Dr. M. Rama Jois and many more renowned scientists, technocrats and educationists have visited the institute to motivate and guide the students.
+\n\n
+\tOwing to its exalted Vision, Mission and Objectives; commitment to the cause of education and remarkable accomplishments, SMVITM is consistently maintaining record admissions of more than 90 per cent of the intake for the last three years. Though the institution is still taking off, the achievements of its students, faculty and staff are many and commendable. The institute is growing fast, scaling greater heights by concentrating on excellence in education, research and promotion of placement and entrepreneurship through industry-academia tie-ups and value added programs. The management and the academic administration have been steadfast in their commitment to make SMVITM one of the best engineering institutes in South India in the very near future.
+    </string>
+
+
+    <string name="about_smvitm_milestone">
+* Formation of External Technical Advisory Board comprising distinguished researchers and eminent professors from the USA in an attempt to create interdisciplinary Centers of Excellence and facilitating multi-faceted technological growth.
+\n\n
+* Academic partnerships/MoU made with leading industries/organizations like SAP Labs, Bengaluru; CVC Pvt. Ltd., Bengaluru; Advanced Electronic Systems, Bengaluru; Vinayaka Engineering Works, Mangaluru; University of Agricultural and Horticultural Sciences, Shivamogga; FE Designs, Bengaluru for training/internship/project work/continuing education programs for the students, faculty and staff.
+\n\n
+* Consistently topping in University (VTU) examination results – 100  percent results recorded in both first and second outgoing batches.
+\n\n
+* VTU recognized Research Centers and execution of externally funded research projects in the Departments of Basic Sciences.
+\n\n
+* Establishment of R and D Centre funded by KCTU, Dept. of Commerce and Industry, Govt. of Karnataka on Technology Up-gradation of Cashew Processing Equipment in the Department of Mechanical Engineering.
+\n\n
+* IT facility agreement with premier IT company Tata Consultancy Services (TCS).
+\n\n
+* Collaboration with CSIR, NAL and ISRO scientists for student training/outreach programs.
+ \n\n
+* Institutional merit-cum-means scholarships and other attractive scholarships/awards instituted by benevolent well-wishers, charitable trusts and Govt. Departments.
+\n\n
+* Striking Placement Opportunities and Facilities – Fully furnished, spacious placement block to conduct all the processes related to campus placement drives.
+\n\n
+* Enhanced company placements – Many students already placed in HP, TCS, Infosys, IBM, Mphasis, Robosoft, Cognizant, HCL, WIPRO, Celstream, CVC, Unisys, Diya Systems, Nile Stream, Vee Technologies, Ethnus, Indian Navy, Sri Dutt Technologies, Manipal Digital Systems, Manipal Technologies Ltd., Samundra, Telenetix, Sarayu, Manipal Dot Net, Axionet, Good Through Software, Novigo Solutions, Westline Constructions, Cruiseline Ship Management Services, Adani Power Group, Lancy Constructions, UST Global, Cigital India, Polycab Wires and many more companies.
+\n\n
+* Fully functional and recognized Testing and Consultancy Cell in the Civil Engineering Department.
+\n\n
+* KSCST and VGST (TRIP), Govt. of Karnataka sponsored and promoted student project work having social impact.
+\n\n
+* Effective pre-placement training and personality development programs on a regular basis.
+\n\n
+* Grants under Seed Money to Young Scientists for Research (SMYSR) scheme of Govt. of Karnataka.
+\n\n
+* Unique, industry promoted Innovation Lab in the ECE Department and Creativity Center in the Mechanical Engineering Dept. and Internet of Things Club in the CSE Dept. to identify, bring out, nurture and promote creative ideas/innovative thinking of budding engineers.
+\n\n
+* Well-qualified and highly committed team of faculty and staff, satisfying all the statutory requirements with doctorates serving in all departments.
+\n\n
+* Ongoing research activity: more than 27 research/review papers in well recognized national/international journals and more than 22 papers in the national/international conferences/symposiums (with in India as well as abroad) presented/published during the past one year; Many faculty members pursuing doctoral studies.
+\n\n
+* Organization of state level, inter-collegiate, techno-cultural fests and Project Model Exhibition every year to recognize and reward talented students.
+\n\n
+* Students encouraged and guided to participate and win district, state and national level championships and awards in co-curricular and extra-curricular competitions.
+\n\n
+* ISTE sponsored faculty development programs.
+\n\n
+* Regular organization of various technical/social service programmes under the banner of ISTE Student Chapter, NSS and YRC Wings as well as Rotaract Club.
+\n\n
+* Conducting science model and project exhibitions to recognize, nurture and motivate talented PUC students of the region every year.
+\n\n
+* Organization of career guidance/pre-counseling programs to the local pre-university students as a value added service to society.
+\n\n
+* Invited presentations by the faculty on international forums abroad.
+    </string>
+
+    <string name="pipelinesproject">
+        * Centre for Preservation of Ancient Manuscripts (CPAM): An initiative of Prof. P R Mukund, Rochester Institute of Technology, USA.
+        \n\n
+        * Adoption of Innanje Village for Socio-economic and Total Intellectual Development: Enabling the villagers to use products of science and technology useful for their daily lives by imparting required skill sets at their doorsteps.
+        \n\n
+        * Institute promoted Technology Incubation Center at Udupi, facilitating budding entrepreneurs to come up with their self-sustainable start-ups.
+        \n\n
+        * Promoting ambitious schemes/projects of Govt. of India such as Start Up India; Stand Up India, Digital India.
+        \n\n
+        * Developing Eco-friendly Green Campus in the near future by harnessing renewable energy resources to the fullest extent for efficient energy and water management.
+        \n\n
+        * Find Your Roots: a Techno-Cultural India-Heritage Camp for Students (10+2 level) from abroad – a   mixture of Yoga/meditation, cultural, spiritual, educational and technical activities.
+    </string>
+    <string name="title_activity_clg__book">Clg_BookActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+
+    <string name="smvitm_library_info">
+\tA well-equipped library is an essential and integral component of any education system, especially of higher education. Without a proper information and knowledge infrastructure, no education system can sustain and achieve its stated goals and objectives. Library is a hub of all activities of general as well as technical education.
+\n\n
+\tThe Central Library at SMVITM is housed in a spacious three-storey state of the art independent block. Two floors of the block are occupied exclusively by the Central Library. It has about 1300 square meters of built-up area. The Central Library has a collection of 28,000 volumes of reference/text books, e-books and general category books with over 3,500 titles. In addition to these, there are periodicals and CDs on science, engineering and technology.
+\n\n
+The collection includes reference books such as dictionaries, encyclopedias, handbooks and standards. The library offers a book bank scheme for the students, a special book bank scheme exclusively for SC/ST students, reprography and printing facilities. The library subscribes to e-journals and print journals. An e-learning center providing live transmission of VTU EDUSAT programme is a special feature of the Central Library. In addition to the central library, each department has a separate departmental library for ready reference for its faculty and staff.
+\n\n
+
+
+\tSMVITM libraries serve as information resource centers. They adopt an open access system and aim to develop a comprehensive collection of documents useful for library users of the institute and facilitate efficient dissemination of knowledge.
+\n\n
+\tTo promote the use of library resources, it also subscribe to the e-resources mandated by AICTE and VTU like IEEE Online, ELSEVIER, ASCE, Springer, Proquest, Taylor and Francis and K-Nimbus. These e-resources can be accessed across the campus.
+
+
+    </string>
+
+    <string name="about_varnothsava">   Varnothsava, an annual intercollegiate cultural and technical fest organised by SMVITM, which has been organised since 2014. It had participants from various colleges in the region. The first ever intercollegiate cultural and technical fests, Varnothsava and Tantrikotsava respectively were held on 3 and 4 March 2014.While Varnothsava had competitive events like dance, mime shows, singing, rangoli, face painting etc., participants of Tantrikotsava took part in various technical competitions like robo race, gaming, branch specific paper presentations etc. On 20th February 2015 SMVITM successfully organized inter collegiate technical and cultural fest titled Varnothsava’15. More than 660 participants from 12 engineering and degree colleges participated in competitive cultural and technical events held as part of the fest. Varnothsava’16, hosted by SMVITM which was held on 10th and 11th March 2016, gave a platform for tech geeks and cultural maniacs to showcase their talents that can amaze anyone! This year SMVITM is providing a wide opportunity for Technical and Cultural extravaganza! Through Varnothsava’18. An intercollegiate cultural and technical fest is going to be held on 8th and 9th March 2018.</string>
+</resources>

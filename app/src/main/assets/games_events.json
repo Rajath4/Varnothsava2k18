@@ -1,0 +1,36 @@
+{
+  "game_event": [
+    {
+      "id": "",
+      "EventName": "Mini Militia",
+      "Rules": "Game version will be provided to the participants through share it by the organizing team.\n\n4 make a team.\n\nTournament format: 4 Vs 4 : best two out of 3 matches.\n\nLimited amount of time will be given to configure.\n\nFurther information will be announced before the start of each match.\n\nNot more than 3 teams per college.\n\n",
+      "StudentCoordinator": "Glanis Joyal Monterio",
+      "FacultyCoordinator": "Ranjith Bhat",
+      "ContactDetailsOfStudentCoordinator": "9480986855",
+      "ContactDeatailOfFacCoordi": "9742239324",
+      "Venue": "LH202 (ADMIN BLOCK)",
+      "EventShortDetail": "",
+      "StudentCordinatorDetail": "8 CSE",
+      "FacCoordinatorDetail": "ECE",
+      "EventTime": "10.00-1.30",
+      "EventDay": "9-3-2018",
+      "OtherRules": ""
+    },
+    {
+      "id": "",
+      "EventName": "NFS most wanted",
+      "Rules": "Game Version: Need For Speed : Most Wanted.\n\nAny discomfort regarding controls should be informed first.\n\nThe game has to be played only on keyboard. Any other controllers are not permitted.\n\nTournament format : 4 or 6 players play at a time.\n\nGame type to be decided based on the stage of the tournament.\n\nAt the end of each match the players must maintain the final screen and receive confirmation from a referee.\n\n",
+      "StudentCoordinator": "Sharukh Sameer",
+      "FacultyCoordinator": "Ranjith Bhat",
+      "ContactDetailsOfStudentCoordinator": "9738663625",
+      "ContactDeatailOfFacCoordi": "9742239324",
+      "Venue": "CIM LAB(MECH BLOCK I FLOOR)",
+      "EventShortDetail": "",
+      "StudentCordinatorDetail": "8 Mech",
+      "FacCoordinatorDetail": "ECE",
+      "EventTime": "10.00-1.30",
+      "EventDay": "8-3-2018",
+      "OtherRules": ""
+    }
+  ]
+}

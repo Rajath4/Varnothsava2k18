@@ -1,0 +1,52 @@
+{
+  "general_event": [
+    {
+      "id": "",
+      "EventName": "Bots On Lanes",
+      "Rules": "TRACK ARENA :\n\nTrack will have maximum width of 30 cms.\n\nThe hurdles present in the track may be in the form of Sand and gravel,Oils and greases.,Bridges and inclined surfaces.,Crystal balls and cotton wood and iron pallets etc.\n\n\nDIMENSIONS AND POWER SUPPLY\n\nMachine must fit into a box of dimension 25x25 cm (lxb).\n\nMaximum voltage supply at any case must not exceed 24 volts dc.\n\nThe organizers will provide a standard 230 volts 50 Hz A.C power supply. Any other extension cords, adapters, eliminators etc must be arranged by the participants themselves.\n\nThe maximum weight of the bot allowed is 5kg.\n\n\nGENERAL  RULES OF THE EVENT\n\nThe race will be conducted on timing  criterion i.e the team to complete the whole track in the minimum possible time will be the winner.\n\nThe time measured by the organisers will be final and will be used for scoring the teams.The time measured by  any contestant by any other means is not acceptable for scoring.\n\nThe team can consist of maximum of 4 participants.\n\nIn case of any disputes, the organiser’s decision will be final.\n\nAny team not ready at the time specified will be disqualified from the competition automatically.\n\nJudges decision will be final and will binding on all, no arguments will be entertained.\n\nWired, wireless control is allowed.\n\nThe Robo car must not be made up of  Ready made Kits, lego parts etc.\n\nRobo should not be touched in middle of race.\n\nAny damage to arena will lead to penalty or disqualification.",
+      "StudentCoordinator": "Kishore Poojary",
+      "FacultyCoordinator": "Raviprabha",
+      "ContactDetailsOfStudentCoordinator": "8884383249",
+      "ContactDeatailOfFacCoordi": "9844990322",
+      "Venue": "Near Library Block",
+      "EventShortDetail": "Robo Race",
+      "StudentCordinatorDetail": "8 civil",
+      "FacCoordinatorDetail": "9844990322",
+      "EventTime": "10.00-1.30",
+      "EventDay": "8-3-2018",
+      "OtherRules": "To make a manually controlled machine that  completes ther fighting in the minimum possible time and maximum points."
+    },
+    {
+      "id": "",
+      "EventName": "Nidhi",
+      "Rules": "3 make a team.\n\nPrelims will be conducted, if there are too many teams.\n\nThe event will go on for 2-3 hours.\n\nThe event orgamizers decision will be final and binding.\n\n",
+      "StudentCoordinator": "Meghana Prabhu",
+      "FacultyCoordinator": "Mr. Deviprakash",
+      "ContactDetailsOfStudentCoordinator": "97438 14496",
+      "ContactDeatailOfFacCoordi": "8105030200",
+      "Venue": "College Premises",
+      "EventShortDetail": "Treasure Hunt",
+      "StudentCordinatorDetail": "8 Sem",
+      "FacCoordinatorDetail": "Dept. of CV",
+      "EventTime": "10:00 AM",
+      "EventDay": "09-03-2018",
+      "OtherRules": "Using a series of clues participants have to find a hidden treasure."
+    },
+    {
+      "id": "",
+      "EventName": "JAM It",
+      "Rules": "The contestants are contested against the opponents on stage. The number of rounds will be decided by the response gathered.\n\nThe contestants will have to speak on a topic for about 1 minute. The topics are to be decided by the JAM master.\n\nSpeaking for 10 seconds will be rewarded 1 point,+1 poing for valid objection, -1 point for invalid objection.\n5 points to the contesting holding floor at the end of 1 minute.\n\n",
+      "StudentCoordinator": "Daryl Aranha",
+      "FacultyCoordinator": "Mr. Deviprakash",
+      "ContactDetailsOfStudentCoordinator": "96324 31244",
+      "ContactDeatailOfFacCoordi": "8105030200",
+      "Venue": "Seminar Hall 3",
+      "EventShortDetail": "Just a minute",
+      "StudentCordinatorDetail": "",
+      "FacCoordinatorDetail": "Dept. of CV",
+      "EventTime": "11:30AM",
+      "EventDay": "09-03-2018",
+      "OtherRules": ""
+    }
+  ]
+}

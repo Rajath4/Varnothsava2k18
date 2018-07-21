@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_annocement"
+            android:icon="@drawable/ic_announcement_black_24dp"
+            android:title="Announcements" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_schedule_black_24dp"
+            android:title="Schedule" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_event_black_24dp"
+            android:title="Events" />
+
+
+    </group>
+
+    <item
+        android:checkableBehavior="single"
+        android:title="Registration">
+        <menu>
+            <item
+                android:id="@+id/nav_register"
+                android:icon="@drawable/ic_create_black_24dp"
+                android:title="Register Now" />
+
+            <item
+                android:id="@+id/nav_register_talent_expo"
+                android:icon="@drawable/ic_create_black_24dp"
+                android:title="Talent Expo Registration" />
+        </menu>
+    </item>
+
+    <item
+        android:checkableBehavior="single"
+        android:title="About">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="About Varnothsava" />
+
+            <item
+                android:id="@+id/nav_dev"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="About Developer" />
+        </menu>
+    </item>
+</menu>
