@@ -45,28 +45,18 @@ public class EventTabFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_event, container, false);
 
-
         getActivity().setTitle("Events");
-
 
         getActivity().setTheme(R.style.AppTheme);
 
-
-        // Setting ViewPager for each Tabs
-           /* ViewPager viewPager = (ViewPager) view.findViewById(R.id.viewpager);
-            setupViewPager(viewPager);
-            // Set Tabs inside Toolbar
-            TabLayout tabs = (TabLayout) view.findViewById(R.id.fixture_tabs);
-            tabs.setupWithViewPager(viewPager);*/
         mViewPager = view.findViewById(R.id.materialViewPager);
 
         Toolbar toolbar = mViewPager.getToolbar();
 
         ViewPager viewPager = mViewPager.getViewPager();
         setupViewPager(viewPager);
-//After set an adapter to the ViewPager
+        //After set an adapter to the ViewPager
         mViewPager.getPagerTitleStrip().setViewPager(mViewPager.getViewPager());
-
 
         NestedScrollView mScrollView = view.findViewById(R.id.scrollView);
         //MaterialViewPagerHelper.registerScrollView(, mScrollView, null);

@@ -95,31 +95,6 @@ public class EventRecyclerViewAdapter extends RecyclerView.Adapter<EventRecycler
             if (mListener != null) {
                 mListener.onItemClick(pName, getAdapterPosition());
             }
-        /*
-            Intent gotoNext = new Intent(context,EventInfoInBriefActivity.class);
-            gotoNext.putExtra("id",pName.getId());
-            gotoNext.putExtra("EventName",pName.getEventName());
-            gotoNext.putExtra("Rules",pName.getRules());
-            gotoNext.putExtra("StudentCoordinator",pName.getStudentCoordinator());
-            gotoNext.putExtra("FacultyCoordinator",pName.getFacultyCoordinator());
-            gotoNext.putExtra("ContactDetailsOfStudentCoordinator",pName.getContactDetailsOfStudentCoordinator());
-            gotoNext.putExtra("ContactDeatailOfFacCoordi",pName.getContactDeatailOfFacCoordi());
-            gotoNext.putExtra("Venue",pName.getVenue());
-            gotoNext.putExtra("EventShortDetail",pName.getEventShortDetail());
-            gotoNext.putExtra("StudentCordinatorDetail",pName.getStudentCordinatorDetail());
-            gotoNext.putExtra("FacCoordinatorDetail",pName.getFacCoordinatorDetail());
-            gotoNext.putExtra("EventTime",pName.getEventTime());
-            gotoNext.putExtra("EventDay",pName.getEventDay());
-            gotoNext.putExtra("OtherRules",pName.getOtherRules());
-            context.startActivity(gotoNext);*/
-
-           /* Pair[] pair = new Pair[1];
-            pair[0] = new Pair<View, String>(eventicon, "logo_shared");
-
-            ActivityOptions options = null;
-            if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.LOLLIPOP) {
-                options = ActivityOptions.makeSceneTransitionAnimation((Activity) context, pair);
-            }*/
             Intent gotoNext = new Intent(context, EventInfoInBriefActivity.class);
             gotoNext.putExtra("id", pName.getId());
             gotoNext.putExtra("EventName", pName.getEventName());
@@ -135,7 +110,6 @@ public class EventRecyclerViewAdapter extends RecyclerView.Adapter<EventRecycler
             gotoNext.putExtra("EventTime", pName.getEventTime());
             gotoNext.putExtra("EventDay", pName.getEventDay());
             gotoNext.putExtra("OtherRules", pName.getOtherRules());
-            // context.startActivity(gotoNext, options.toBundle());
             context.startActivity(gotoNext);
         }
 

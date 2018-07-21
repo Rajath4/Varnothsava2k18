@@ -40,29 +40,6 @@ public class Day1InfoFragment extends Fragment {
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-
-
-        /*
-        final ArrayList<RecyclerViewModel> pname = new ArrayList<RecyclerViewModel>();
-
-        pname.add(new RecyclerViewModel("Alpha"));
-        pname.add(new RecyclerViewModel("Beta"));
-        pname.add(new RecyclerViewModel("Cupcake"));
-        pname.add(new RecyclerViewModel("Donut"));
-        pname.add(new RecyclerViewModel("Eclairs"));
-        pname.add(new RecyclerViewModel("Froyo"));
-        pname.add(new RecyclerViewModel("GingerBread"));
-        pname.add(new RecyclerViewModel("HoneyComb"));
-        pname.add(new RecyclerViewModel("IceCreamSandwich"));
-        pname.add(new RecyclerViewModel("JellyBean"));
-        pname.add(new RecyclerViewModel("KitKat"));
-        pname.add(new RecyclerViewModel("Lollipop"));
-        pname.add(new RecyclerViewModel("MarshMallow"));
-        pname.add(new RecyclerViewModel("Nougat"));
-
-*/
-
-
         ArrayList<RecyclerViewModel> pname = new ArrayList<RecyclerViewModel>();
         try {
             InputStream is;

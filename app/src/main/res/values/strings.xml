@@ -6,6 +6,13 @@
 
     <string name="action_settings">Settings</string>
 
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
 
     <string name="about_smvitm">
             \tFounded in 2010 by H. H. Shri Vishwavallabha Theertha Swamiji of Shri Sode Vadiraja Mutt – one of the 700 plus years old Ashta Mutts associated with the world famous Shri Krishna temple of Udupi in Karnataka – Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM), situated at Bantakal in Udupi has carved a niche for itself in imparting quality engineering education in the coastal Karnataka region. Shri Swamiji started the institute with the sublime objective of providing quality higher education to the needy student community at affordable costs. The motto Engineering your Career and Character with Care well reflects the objectives and philosophy of the institute. Despite, being the youngest institute in the region, SMVITM has made remarkable strides in its journey towards excellence over the past five years and has emerged as the most promising engineering institute with its well-qualified and motivated faculty, state-of-the-art infrastructure and distinguished learning-centric facilities.
