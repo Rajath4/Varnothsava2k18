@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Model;
 
 /*
 Created by Rajath

@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Fragment;
 
 
 import android.os.Bundle;
@@ -6,6 +6,9 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
+
+import smvitm.rajath.varnothsava.R;
 
 
 /*
@@ -17,10 +20,10 @@ WhatsApp : +91 9591708470
 Phone : +91 9591708470
 */
 
-public class AboutUsFragment extends Fragment {
+public class AnnoncementFragment extends Fragment {
 
 
-    public AboutUsFragment() {
+    public AnnoncementFragment() {
         // Required empty public constructor
     }
 
@@ -29,8 +32,9 @@ public class AboutUsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View rootview = inflater.inflate(R.layout.fragment_about_us, container, false);
-        getActivity().setTitle("About Varnothsava");
+        View rootview = inflater.inflate(R.layout.fragment_annoncement, container, false);
+        getActivity().setTitle("Announcements");
+        Toast.makeText(getActivity(), "Coming soon", Toast.LENGTH_SHORT).show();
         return rootview;
     }
 

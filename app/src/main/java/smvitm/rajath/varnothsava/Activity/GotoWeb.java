@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Activity;
 
 import android.app.ProgressDialog;
 import android.content.ActivityNotFoundException;
@@ -19,6 +19,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.net.URL;
+
+import smvitm.rajath.varnothsava.R;
 
 /*
 Created by Rajath

@@ -1,4 +1,5 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Fragment;
+
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -9,13 +10,17 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.github.florent37.materialviewpager.header.MaterialViewPagerHeaderDecorator;
+import com.stone.vega.library.VegaLayoutManager;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
 
 import java.io.InputStream;
 import java.util.ArrayList;
+
+import smvitm.rajath.varnothsava.Adapter.EventScheduleRecyclerViewAdapter;
+import smvitm.rajath.varnothsava.R;
+import smvitm.rajath.varnothsava.Model.RecyclerViewModel;
 
 
 /*
@@ -27,24 +32,24 @@ WhatsApp : +91 9591708470
 Phone : +91 9591708470
 */
 
-public class GamingEventFragment extends Fragment {
-    @Nullable
+public class Day1InfoFragment extends Fragment {
+
     @Override
-    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.fragment_layout, container, false);
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        View rootView = inflater.inflate(R.layout.fragmentschedulelayout, container, false);
         return rootView;
     }
 
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
-
         ArrayList<RecyclerViewModel> pname = new ArrayList<RecyclerViewModel>();
         try {
             InputStream is;
             String filename;
-            is = getActivity().getAssets().open("games_events.json");
-            filename = "game_event";
+            is = getActivity().getAssets().open("day1_events.json");
+            filename = "dayo_event";
 
 
             int size = is.available();
@@ -66,7 +71,7 @@ public class GamingEventFragment extends Fragment {
                 String SStudentCoordinator = object.optString("StudentCoordinator");
                 String SFacultyCoordinator = object.optString("FacultyCoordinator");
                 String SContactDetailsOfStudentCoordinator = object.optString("ContactDetailsOfStudentCoordinator");
-                String SContactDeatailOfFacCoordi = object.optString("ContactDeatailOfFacCoordi");
+                String SContactDeatailOfFacCoordi = object.optString("ContactDeatailOfFacCoordi ");
                 String SVenue = object.optString("Venue");
                 String SEventShortDetail = object.optString("EventShortDetail");
                 String SStudentCordinatorDetail = object.optString("StudentCordinatorDetail");
@@ -97,12 +102,10 @@ public class GamingEventFragment extends Fragment {
 
         }
 
-
-        final EventRecyclerViewAdapter itemsAdapter = new EventRecyclerViewAdapter(GamingEventFragment.this.getActivity(), pname, null);
+        final EventScheduleRecyclerViewAdapter itemsAdapter = new EventScheduleRecyclerViewAdapter(Day1InfoFragment.this.getActivity(), pname, null);
         final RecyclerView clv = view.findViewById(R.id.clist);
-        clv.setLayoutManager(new LinearLayoutManager(GamingEventFragment.this.getActivity()));
-        //clv.setLayoutManager(new VegaLayoutManager());
-        clv.addItemDecoration(new MaterialViewPagerHeaderDecorator());
+        clv.setLayoutManager(new LinearLayoutManager(Day1InfoFragment.this.getActivity()));
+        clv.setLayoutManager(new VegaLayoutManager());
         clv.setHasFixedSize(true);
         clv.setAdapter(itemsAdapter);
 

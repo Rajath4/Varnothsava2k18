@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Fragment;
 
 
 import android.os.Bundle;
@@ -6,6 +6,8 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import smvitm.rajath.varnothsava.R;
 
 
 /*
@@ -17,10 +19,10 @@ WhatsApp : +91 9591708470
 Phone : +91 9591708470
 */
 
-public class AboutSMVITMFragment extends Fragment {
+public class AboutUsFragment extends Fragment {
 
 
-    public AboutSMVITMFragment() {
+    public AboutUsFragment() {
         // Required empty public constructor
     }
 
@@ -29,8 +31,8 @@ public class AboutSMVITMFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        View rootview = inflater.inflate(R.layout.fragment_about_smvitm, container, false);
-        getActivity().setTitle("About SMVITM");
+        View rootview = inflater.inflate(R.layout.fragment_about_us, container, false);
+        getActivity().setTitle("About Varnothsava");
         return rootview;
     }
 

@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Fragment;
 
 
 import android.graphics.drawable.Drawable;
@@ -19,6 +19,8 @@ import com.github.florent37.materialviewpager.header.HeaderDesign;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import smvitm.rajath.varnothsava.R;
 
 
 /*

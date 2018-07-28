@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Activity;
 
 import android.Manifest;
 import android.content.Intent;
@@ -21,6 +21,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import smvitm.rajath.varnothsava.R;
 
 /*
 Created by Rajath

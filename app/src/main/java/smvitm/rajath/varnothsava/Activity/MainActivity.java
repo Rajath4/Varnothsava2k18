@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Activity;
 
 import android.content.Context;
 import android.content.Intent;
@@ -18,6 +18,15 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.google.firebase.analytics.FirebaseAnalytics;
+
+import smvitm.rajath.varnothsava.Fragment.AboutSMVITMFragment;
+import smvitm.rajath.varnothsava.Fragment.AboutUsFragment;
+import smvitm.rajath.varnothsava.Fragment.AnnoncementFragment;
+import smvitm.rajath.varnothsava.Fragment.DeveloperProfileDesignFragment;
+import smvitm.rajath.varnothsava.Fragment.EventScheduleTabFragment;
+import smvitm.rajath.varnothsava.Fragment.EventTabFragment;
+import smvitm.rajath.varnothsava.Fragment.HomePageFragment;
+import smvitm.rajath.varnothsava.R;
 
 /*
 Created by Rajath

@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Fragment;
 
 
 import android.os.Bundle;
@@ -18,6 +18,9 @@ import org.json.JSONObject;
 import java.io.InputStream;
 import java.util.ArrayList;
 
+import smvitm.rajath.varnothsava.Adapter.EventRecyclerViewAdapter;
+import smvitm.rajath.varnothsava.R;
+import smvitm.rajath.varnothsava.Model.RecyclerViewModel;
 
 /*
 Created by Rajath
@@ -28,9 +31,9 @@ WhatsApp : +91 9591708470
 Phone : +91 9591708470
 */
 
-public class GeneralEventFragment extends Fragment {
-    @Nullable
-    @Override
+public class CulturalEventFragment extends Fragment {
+
+
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_layout, container, false);
         return rootView;
@@ -44,8 +47,8 @@ public class GeneralEventFragment extends Fragment {
         try {
             InputStream is;
             String filename;
-            is = getActivity().getAssets().open("general_events.json");
-            filename = "general_event";
+            is = getActivity().getAssets().open("cultural_event.json");
+            filename = "cultural_event";
 
 
             int size = is.available();
@@ -98,10 +101,9 @@ public class GeneralEventFragment extends Fragment {
 
         }
 
-
-        final EventRecyclerViewAdapter itemsAdapter = new EventRecyclerViewAdapter(GeneralEventFragment.this.getActivity(), pname, null);
+        final EventRecyclerViewAdapter itemsAdapter = new EventRecyclerViewAdapter(CulturalEventFragment.this.getActivity(), pname, null);
         final RecyclerView clv = view.findViewById(R.id.clist);
-        clv.setLayoutManager(new LinearLayoutManager(GeneralEventFragment.this.getActivity()));
+        clv.setLayoutManager(new LinearLayoutManager(CulturalEventFragment.this.getActivity()));
         //clv.setLayoutManager(new VegaLayoutManager());
         clv.addItemDecoration(new MaterialViewPagerHeaderDecorator());
         clv.setHasFixedSize(true);

@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Fragment;
 
 
 import android.content.Intent;
@@ -12,6 +12,9 @@ import android.view.animation.AnimationUtils;
 import android.widget.Button;
 
 import com.balysv.materialripple.MaterialRippleLayout;
+
+import smvitm.rajath.varnothsava.Activity.GotoWeb;
+import smvitm.rajath.varnothsava.R;
 
 
 /*

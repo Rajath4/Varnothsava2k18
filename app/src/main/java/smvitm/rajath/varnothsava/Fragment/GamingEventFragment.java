@@ -1,5 +1,4 @@
-package smvitm.rajath.varnothsava;
-
+package smvitm.rajath.varnothsava.Fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -18,6 +17,11 @@ import org.json.JSONObject;
 import java.io.InputStream;
 import java.util.ArrayList;
 
+import smvitm.rajath.varnothsava.Adapter.EventRecyclerViewAdapter;
+import smvitm.rajath.varnothsava.R;
+import smvitm.rajath.varnothsava.Model.RecyclerViewModel;
+
+
 /*
 Created by Rajath
 For more details contact me at
@@ -27,12 +31,10 @@ WhatsApp : +91 9591708470
 Phone : +91 9591708470
 */
 
-public class TechnicalEventFragment extends Fragment {
-
-
+public class GamingEventFragment extends Fragment {
+    @Nullable
     @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
+    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_layout, container, false);
         return rootView;
     }
@@ -40,12 +42,13 @@ public class TechnicalEventFragment extends Fragment {
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
+
         ArrayList<RecyclerViewModel> pname = new ArrayList<RecyclerViewModel>();
         try {
             InputStream is;
             String filename;
-            is = getActivity().getAssets().open("technical_event.json");
-            filename = "technical_event";
+            is = getActivity().getAssets().open("games_events.json");
+            filename = "game_event";
 
 
             int size = is.available();
@@ -98,10 +101,11 @@ public class TechnicalEventFragment extends Fragment {
 
         }
 
-        final EventRecyclerViewAdapter itemsAdapter = new EventRecyclerViewAdapter(TechnicalEventFragment.this.getActivity(), pname, null);
+
+        final EventRecyclerViewAdapter itemsAdapter = new EventRecyclerViewAdapter(GamingEventFragment.this.getActivity(), pname, null);
         final RecyclerView clv = view.findViewById(R.id.clist);
-        clv.setLayoutManager(new LinearLayoutManager(TechnicalEventFragment.this.getActivity()));
-        // clv.setLayoutManager(new VegaLayoutManager());
+        clv.setLayoutManager(new LinearLayoutManager(GamingEventFragment.this.getActivity()));
+        //clv.setLayoutManager(new VegaLayoutManager());
         clv.addItemDecoration(new MaterialViewPagerHeaderDecorator());
         clv.setHasFixedSize(true);
         clv.setAdapter(itemsAdapter);

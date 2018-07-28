@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Fragment;
 
 
 import android.content.Intent;
@@ -12,6 +12,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
+
+import smvitm.rajath.varnothsava.Activity.GotoWeb;
+import smvitm.rajath.varnothsava.R;
 
 
 /*

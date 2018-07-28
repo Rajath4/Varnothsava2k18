@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Firebase;
 
 
 /*
@@ -22,6 +22,9 @@ import android.util.Log;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
+
+import smvitm.rajath.varnothsava.Activity.MainActivity;
+import smvitm.rajath.varnothsava.R;
 
 public class MyFirebaseMessagingService extends FirebaseMessagingService {
 

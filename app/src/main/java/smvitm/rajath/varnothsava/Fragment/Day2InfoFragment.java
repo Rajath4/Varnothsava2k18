@@ -1,4 +1,4 @@
-package smvitm.rajath.varnothsava;
+package smvitm.rajath.varnothsava.Fragment;
 
 
 import android.os.Bundle;
@@ -17,6 +17,10 @@ import org.json.JSONObject;
 
 import java.io.InputStream;
 import java.util.ArrayList;
+
+import smvitm.rajath.varnothsava.Adapter.EventScheduleRecyclerViewAdapter;
+import smvitm.rajath.varnothsava.R;
+import smvitm.rajath.varnothsava.Model.RecyclerViewModel;
 
 
 /*
